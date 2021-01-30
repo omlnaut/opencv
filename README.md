@@ -12,3 +12,4 @@ Following: https://www.youtube.com/watch?v=WQeoO7MI0Bs
 - Chapter 3, Crop and Resize
 - Chapter 4, Drawing
 - Chapter 5, warping
+- Chapter 6, joining images
