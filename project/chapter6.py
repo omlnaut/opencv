@@ -44,7 +44,8 @@ def stackImages(scale,imgArray):
         ver = hor
     return ver
 
-img_stack = stackImages(.5, ([[img,img_gray,img], [img,img,img]]))
+if __name__=='__main__':
+    img_stack = stackImages(.5, ([[img,img_gray,img], [img,img,img]]))
 
-cv2.imshow('stacked', img_stack)
-cv2.waitKey(0)
+    cv2.imshow('stacked', img_stack)
+    cv2.waitKey(0)
