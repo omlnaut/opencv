@@ -17,3 +17,4 @@ Following: https://www.youtube.com/watch?v=WQeoO7MI0Bs
 
 31.01.2021
 - Chapter 8, Detect contours
+- Chapter 9, Detecting faces with haar cascade
