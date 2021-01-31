@@ -12,4 +12,4 @@ for (x,y,w,h) in faces:
 
 
 cv2.imshow('Result', img)
-cv2.waitKey(0):w
+cv2.waitKey(0)
