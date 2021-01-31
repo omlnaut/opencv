@@ -14,3 +14,6 @@ Following: https://www.youtube.com/watch?v=WQeoO7MI0Bs
 - Chapter 5, warping
 - Chapter 6, joining images
 - Chapter 7, Detect colors
+
+31.01.2021
+- Chapter 8, Detect contours
